@@ -4,30 +4,31 @@ This repository contains a comprehensive implementation of a Network Intrusion D
 ## Tech Stack
 
 ### Programming Languages and Libraries
-- **Python**: Core programming language.
-- **NumPy**: For numerical computations.
-- **Pandas**: For data manipulation and analysis.
-- **Seaborn**: For data visualization.
-- **Matplotlib**: For plotting graphs.
-- **Tabulate**: For creating tabular data.
+- 🐍 **Python**: Core programming language.
+- 🔢 **NumPy**: For numerical computations.
+- 📊 **Pandas**: For data manipulation and analysis.
+- 📈 **Seaborn**: For data visualization.
+- 📉 **Matplotlib**: For plotting graphs.
+- 📝 **Tabulate**: For creating tabular data.
 
 ### Machine Learning Libraries
-- **Scikit-learn**: Machine learning library for data preprocessing, model selection, and evaluation.
-  - `tree`, `train_test_split`, `StandardScaler`, `LabelEncoder`, `RFE`
-  - `LogisticRegression`, `KNeighborsClassifier`, `DecisionTreeClassifier`
-  - `RandomForestClassifier`, `AdaBoostClassifier`, `VotingClassifier`, `GradientBoostingClassifier`
-  - `SVC`, `LinearSVC`, `BernoulliNB`
+- 🤖 **Scikit-learn**: Machine learning library for data preprocessing, model selection, and evaluation.
+  - 🌳 `tree`, `train_test_split`, `StandardScaler`, `LabelEncoder`, `RFE`
+  - 📉 `LogisticRegression`, `KNeighborsClassifier`, `DecisionTreeClassifier`
+  - 🌲 `RandomForestClassifier`, `AdaBoostClassifier`, `VotingClassifier`, `GradientBoostingClassifier`
+  - 💻 `SVC`, `LinearSVC`, `BernoulliNB`
 
 ### Advanced Machine Learning Models
-- **LightGBM**: Gradient boosting framework.
-- **CatBoost**: Gradient boosting on decision trees library.
-- **XGBoost**: Extreme Gradient Boosting library.
+- ⚡ **LightGBM**: Gradient boosting framework.
+- 🐱 **CatBoost**: Gradient boosting on decision trees library.
+- 🚀 **XGBoost**: Extreme Gradient Boosting library.
 
 ### Hyperparameter Optimization
-- **Optuna**: For hyperparameter optimization.
+- 🎯 **Optuna**: For hyperparameter optimization.
 
 ### Utilities
-- **Joblib**: For model persistence.
+- 💾 **Joblib**: For model persistence.
+
 
 
 ## Dataset Features
