@@ -4,7 +4,6 @@ This repository contains a comprehensive implementation of a Network Intrusion D
 ## Dataset Features
 
 | duration | protocol_type | service | flag | src_bytes |
-|----------|---------------|---------|------|-----------|
 | dst_bytes | land | wrong_fragment | urgent | hot |
 | num_failed_logins | logged_in | num_compromised | root_shell | su_attempted |
 | num_root | num_file_creations | num_shells | num_access_files | num_outbound_cmds |
