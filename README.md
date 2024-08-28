@@ -7,10 +7,10 @@ This repository contains a comprehensive implementation of a Network Intrusion D
 
 ## Decision Tree Structure
 
-![Decision Tree Image](Decision tree.png)
+![Decision Tree Image](Decision_tree.png)
 
 ##
-![Feature importance for Decision Tree](Decision tree feature importance.png)
+![Feature importance for Decision Tree](Decision_tree_feature_importance.png)
 
 ## Results
 
