@@ -5,8 +5,12 @@ This repository contains a comprehensive implementation of a Network Intrusion D
 ## Heatmap
 ![Heatmap](heatmap.png)
 
+## Decision Tree Structure
 
+![Decision Tree Image](Decision tree.png)
 
+##
+![Feature importance for Decision Tree](Decision tree feature importance.png)
 
 ## Results
 
