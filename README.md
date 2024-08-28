@@ -1,6 +1,24 @@
 # Network-Intrusion-Detection-System-using-Machine-Learning
 This repository contains a comprehensive implementation of a Network Intrusion Detection System (NIDS) leveraging machine learning techniques. The system aims to detect and classify network intrusions in real-time, providing a robust defense mechanism against potential cyber threats.
 
+## Results
+
+| Model               | Train Score | Test Score |
+|---------------------|-------------|------------|
+| KNN                 | 0.984972    | 0.981477   |
+| Logistic Regression | 0.941477    | 0.941651   |
+| Decision Tree       | 0.999887    | 0.995237   |
+| Random Forest       | 0.999773    | 0.995105   |
+| GBM                 | 0.99535     | 0.992723   |
+| XGBM                | 0.999887    | 0.996692   |
+| Adaboost            | 0.981456    | 0.983594   |
+| Light GBM           | 0.999887    | 0.99656    |
+| CatBoost            | 0.998412    | 0.995634   |
+| Naive Bayes Model   | 0.89214     | 0.892564   |
+| Voting              | 0.999887    | 0.996295   |
+| SVM                 | 0.970965    | 0.973406   |
+
+
 ## Tech Stack
 
 ### Programming Languages and Libraries
